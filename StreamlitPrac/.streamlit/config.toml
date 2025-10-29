@@ -1,0 +1,8 @@
+[theme]
+secondaryBackgroundColor="#2f4853ff"# Example: light grey for sidebar background
+font="sans serif"
+base="dark"
+primaryColor="forestGreen"
+textColor="darkGoldenrod"
+borderColor="mediumSlateBlue"
+background="image1.jpg"
